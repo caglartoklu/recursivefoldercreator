@@ -1,7 +1,7 @@
 # RecursiveFolderCreator
 
 RecursiveFolderCreator is a [Microsoft Access](https://products.office.com/en-us/access) application that
-creates recursive folders and keep their history.
+creates recursive folders and keep their history for reuse.
 
 It is based on [Basic Accessories](https://github.com/caglartoklu/basic-accessories)
 which is a framework for Microsoft Access.
@@ -32,7 +32,7 @@ You can export all the code using the following call on immediate window of
 ```vbnet
 Call mdlFiles.ExportAllCode("src")
 ```
-to a `src1 folder under your *Documents* directory.
+to a `src` folder under your `Documents` directory.
 
 ## Updating
 
